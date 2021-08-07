@@ -1,0 +1,9 @@
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\obj\Debug\netcoreapp3.1\Without_NullObject.csprojAssemblyReference.cache
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\obj\Debug\netcoreapp3.1\Without_NullObject.AssemblyInfoInputs.cache
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\obj\Debug\netcoreapp3.1\Without_NullObject.AssemblyInfo.cs
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\obj\Debug\netcoreapp3.1\Without_NullObject.csproj.CoreCompileInputs.cache
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\bin\Debug\netcoreapp3.1\Without_NullObject.deps.json
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\bin\Debug\netcoreapp3.1\Without_NullObject.dll
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\bin\Debug\netcoreapp3.1\Without_NullObject.pdb
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\obj\Debug\netcoreapp3.1\Without_NullObject.dll
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\Without_NullObject\obj\Debug\netcoreapp3.1\Without_NullObject.pdb

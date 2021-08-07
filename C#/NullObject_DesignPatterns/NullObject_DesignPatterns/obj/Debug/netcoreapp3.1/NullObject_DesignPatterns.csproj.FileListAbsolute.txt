@@ -1,0 +1,13 @@
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\bin\Debug\netcoreapp3.1\NullObject_DesignPatterns.exe
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\bin\Debug\netcoreapp3.1\NullObject_DesignPatterns.deps.json
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\bin\Debug\netcoreapp3.1\NullObject_DesignPatterns.runtimeconfig.json
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\bin\Debug\netcoreapp3.1\NullObject_DesignPatterns.runtimeconfig.dev.json
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\bin\Debug\netcoreapp3.1\NullObject_DesignPatterns.dll
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\bin\Debug\netcoreapp3.1\NullObject_DesignPatterns.pdb
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\obj\Debug\netcoreapp3.1\NullObject_DesignPatterns.csprojAssemblyReference.cache
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\obj\Debug\netcoreapp3.1\NullObject_DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\obj\Debug\netcoreapp3.1\NullObject_DesignPatterns.AssemblyInfo.cs
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\obj\Debug\netcoreapp3.1\NullObject_DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\obj\Debug\netcoreapp3.1\NullObject_DesignPatterns.dll
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\obj\Debug\netcoreapp3.1\NullObject_DesignPatterns.pdb
+C:\Users\ofeki\OneDrive\שולחן העבודה\Null Object Desing Pattern\C#\NullObject_DesignPatterns\NullObject_DesignPatterns\obj\Debug\netcoreapp3.1\NullObject_DesignPatterns.genruntimeconfig.cache
